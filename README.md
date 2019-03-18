@@ -1,0 +1,2 @@
+# nuxts
+this is next
